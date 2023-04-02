@@ -1,0 +1,1 @@
+alert("Hoy es un dia maravilloso")
